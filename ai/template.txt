@@ -1,4 +1,9 @@
 Please analyze the following abstract of papers. 
 
-Content:
+### Instructions:
+1. **Category:** Identify if the paper belongs to **LLM** (Large Language Model), **MLLM** (Multimodal Large Language Model), or **Other**.
+2. **Analysis:** Provide a summary of the paper.
+
+---
+**Content:**
 {content}
